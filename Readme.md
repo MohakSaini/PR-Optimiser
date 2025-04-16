@@ -1,5 +1,3 @@
-Sure! Here's a complete `README.md` file for your project:
-
 ---
 # Code Review Assistant with AI
 
